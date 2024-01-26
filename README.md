@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align=center>
+  <b>自我介绍</b>
 
-<!--
-**LANqed/LANqed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  PS：这里应有一张OC图，但是不会画画（悲）
 
-Here are some ideas to get you started:
+  Welcome back,Doctor
+  
+  一个音游Furry初三牲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Phigros，Orzmic，Dynamix...之类的
+
+  <a href="twitter.com/LNqwq">
+    Twitter
+  </a>
+  |
+  <a href="https://space.bilibili.com/592217216">
+    Bilibili
+</div>
