@@ -9,10 +9,11 @@
 
   Phigros，Orzmic，Dynamix...之类的
 
-  <a href="twitter.com/LNqwq">
-    Twitter
+  <a href="blog.lanqed.top">
+    Blog
   </a>
   |
-  <a href="https://space.bilibili.com/592217216">
-    Bilibili
+  <a href="lanqed.top">
+    电子名片
+  </a>
 </div>
