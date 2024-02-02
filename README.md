@@ -9,11 +9,11 @@
 
   Phigros，Orzmic，Dynamix...之类的
 
-  <a href="blog.lanqed.top">
+  <a href="https://blog.lanqed.top">
     Blog
   </a>
   |
-  <a href="lanqed.top">
+  <a href="https://lanqed.top">
     电子名片
   </a>
 </div>
