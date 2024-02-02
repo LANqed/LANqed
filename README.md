@@ -1,7 +1,7 @@
 <div align=center>
   <b>自我介绍</b>
-
-  PS：这里应有一张OC图，但是不会画画（悲）
+  <img src="icon.png" alt="ICON" width="228" height="228">
+  PS：这里应是一张OC图，但是不会画画（悲）
 
   Welcome back,Doctor
   
